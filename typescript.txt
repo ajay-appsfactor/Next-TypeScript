@@ -1,0 +1,21 @@
+1. React.FormEvent 
+2. React.FC (or React.FunctionComponent)
+3. React.ComponentType
+4. React.RefObject<T>
+5. React.MutableRefObject<T>
+6. React.ReactChild
+7. React.ReactChildren
+8. React.HTMLAttributes<T>
+9. React.SVGAttributes<T>
+10. React.SVGAttributes<T>
+11. React.MouseEvent<T>
+12. React.ChangeEvent<T>
+13. React.KeyboardEvent<T>
+14. React.CSSProperties
+15. React.HTMLAttributes<HTMLButtonElement>
+
+
+
+
+({children}: Readonly<{children: React.ReactNode}>)
+
